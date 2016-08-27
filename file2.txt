@@ -1,1 +1,1 @@
-This is a sample file, but with another small change.
+This is a sample file, but with a small change.
